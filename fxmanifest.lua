@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-version '1.0.2'
+version '1.0.0'
 author 'yusu_sauvage'
 description 'Pack de ressource véhicule'
 repository 'https://github.com/Mistral-Roleplay/FiveM-Car-Audi-Mistral-Roleplay'
