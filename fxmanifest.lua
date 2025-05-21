@@ -2,10 +2,10 @@
 fx_version 'cerulean'
 game 'gta5'
 
-version '1.0.0'
+version '1.0.2'
 author 'yusu_sauvage'
-description 'Pack de ressource véhicule'
-repository 'https://github.com/Mistral-Roleplay/FiveM-Car-Audi-Mistral-Roleplay'
+description 'Pack de ressource véhicule BMW HD'
+repository 'https://github.com/DAGB-Roleplay-Team/FiveM-Car-BMW-V1'
 
 files {
     'data/**/*.meta',
@@ -22,9 +22,5 @@ data_file 'CARCOLS_FILE'            'data/**/carcols*.meta'
 data_file 'VEHICLE_VARIATION_FILE'    'data/**/carvariations*.meta'
 data_file 'CONTENT_UNLOCKING_META_FILE' 'data/**/*unlocks.meta'
 data_file 'PTFXASSETINFO_FILE' 'data/**/ptfxassetinfo.meta'
-
-client_scripts {
-    'vehicle_names.lua',
-}
 
 server_script 'server.lua'
