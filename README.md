@@ -10,6 +10,8 @@
 
 Ce dépôt contient un pack de voitures BMW pour les serveurs FiveM. Il comprend plusieurs modèles de véhicules BMW prêts à être ajoutés à votre serveur.
 
+📁 Stockage 615 Mo - ⚙️ Version 1.0.2
+
 ## Installation
 
 1. Téléchargez le dépôt.
